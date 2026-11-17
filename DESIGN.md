@@ -1,3 +1,5 @@
+#Nowy komentarz
+Drugi komentarz
 # Wersja 1 — kierunek przyjęty na etapie prototypu, do dalszego rozwijania
 
 Spokojny, czytelny interfejs narzędzia do pracy. Jasne powierzchnie, niebieski kolor głównych działań i systemowa typografia.
